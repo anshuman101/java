@@ -5,7 +5,7 @@ public class Hfj7{
 		int row=1;
 		while(row<=Nrows)
 		{
-			j=1;
+			int j=1;
 			while(j<=Nrows-row){
 				System.out.print(" ");
 				j=j++;
