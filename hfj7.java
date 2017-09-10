@@ -3,7 +3,7 @@ public class Hfj7{
 	{
 		int Nrows=5;
 		int row=1;
-		while(row<=Nrows)
+		while(row<=Nrows)hi
 		{
 			int j=1;
 			while(j<=Nrows-row){
